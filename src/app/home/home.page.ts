@@ -7,7 +7,8 @@ import { Component } from '@angular/core';
   standalone: false,
 })
 export class HomePage {
-
+ text_usuario: string="";
+ pass_contrasenia:string="";
   constructor() {}
 
 }
